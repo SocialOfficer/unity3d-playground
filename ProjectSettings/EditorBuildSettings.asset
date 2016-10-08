@@ -6,4 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Playground.unity
+    path: Assets/Scenes/Playgrounds/Rendering/AreaLights.unity
+  - enabled: 1
+    path: Assets/Scenes/Playgrounds/Rendering/Bloom.unity
